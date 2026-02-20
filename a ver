@@ -1,0 +1,3 @@
+npx shadcn-ui@latest add card button input label badge tabs select slider switch separator textarea progress
+npm install lucide-react recharts
+npm run dev
